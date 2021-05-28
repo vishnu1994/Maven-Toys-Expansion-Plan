@@ -1,0 +1,51 @@
+Store_ID,Store_Name,Store_City,Store_Location,Store_Open_Date,No. of Days,Year
+1,Maven Toys Guadalajara 1,Guadalajara,Residential,9/18/1992,10476,28.70136986
+2,Maven Toys Monterrey 1,Monterrey,Residential,4/27/1995,9525,26.09589041
+3,Maven Toys Guadalajara 2,Guadalajara,Commercial,12/27/1999,7820,21.42465753
+4,Maven Toys Saltillo 1,Saltillo,Downtown,1/1/2000,7815,21.4109589
+5,Maven Toys La Paz 1,La Paz,Downtown,5/31/2001,7299,19.99726027
+6,Maven Toys Mexicali 1,Mexicali,Commercial,12/13/2003,6373,17.46027397
+7,Maven Toys Monterrey 2,Monterrey,Downtown,12/25/2003,6361,17.42739726
+8,Maven Toys Pachuca 1,Pachuca,Downtown,10/14/2004,6067,16.62191781
+9,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,10/15/2004,6066,16.61917808
+10,Maven Toys Campeche 1,Campeche,Downtown,1/14/2005,5975,16.36986301
+11,Maven Toys Cuernavaca 1,Cuernavaca,Downtown,4/19/2005,5880,16.10958904
+12,Maven Toys Chetumal 1,Chetumal,Downtown,5/5/2006,5499,15.06575342
+13,Maven Toys Mexicali 2,Mexicali,Downtown,8/30/2006,5382,14.74520548
+14,Maven Toys Guanajuato 1,Guanajuato,Downtown,1/31/2007,5228,14.32328767
+15,Maven Toys Tuxtla Gutierrez 1,Tuxtla Gutierrez,Downtown,3/5/2007,5195,14.23287671
+16,Maven Toys San Luis Potosi 1,San Luis Potosi,Downtown,5/19/2007,5120,14.02739726
+17,Maven Toys Toluca 1,Toluca,Downtown,12/9/2007,4916,13.46849315
+18,Maven Toys Merida 1,Merida,Downtown,8/22/2008,4659,12.76438356
+19,Maven Toys Puebla 1,Puebla,Commercial,12/16/2008,4543,12.44657534
+20,Maven Toys Zacatecas 1,Zacatecas,Downtown,5/29/2009,4379,11.99726027
+21,Maven Toys Santiago 1,Santiago,Downtown,11/23/2009,4201,11.50958904
+22,Maven Toys Guanajuato 2,Guanajuato,Commercial,3/29/2010,4075,11.16438356
+23,Maven Toys Chihuahua 1,Chihuahua,Commercial,6/12/2010,4000,10.95890411
+24,Maven Toys Aguascalientes 1,Aguascalientes,Downtown,7/31/2010,3951,10.82465753
+25,Maven Toys Ciudad Victoria 1,Ciudad Victoria,Downtown,9/8/2010,3912,10.71780822
+26,Maven Toys Campeche 2,Campeche,Commercial,9/15/2010,3905,10.69863014
+27,Maven Toys Oaxaca 1,Oaxaca,Downtown,10/2/2010,3888,10.65205479
+28,Maven Toys Puebla 2,Puebla,Downtown,4/1/2011,3707,10.15616438
+29,Maven Toys Xalapa 1,Xalapa,Commercial,6/21/2011,3626,9.934246575
+30,Maven Toys Guadalajara 3,Guadalajara,Airport,10/20/2011,3505,9.602739726
+31,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,5/4/2012,3308,9.063013699
+32,Maven Toys Hermosillo 1,Hermosillo,Residential,8/31/2012,3189,8.736986301
+33,Maven Toys Monterrey 3,Monterrey,Airport,3/17/2013,2991,8.194520548
+34,Maven Toys Villahermosa 1,Villahermosa,Downtown,6/7/2013,2909,7.969863014
+35,Maven Toys Chilpancingo 1,Chilpancingo,Downtown,6/11/2013,2905,7.95890411
+36,Maven Toys Morelia 1,Morelia,Downtown,7/1/2013,2885,7.904109589
+37,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,11/28/2013,2735,7.493150685
+38,Maven Toys Chihuahua 2,Chihuahua,Downtown,3/18/2014,2625,7.191780822
+39,Maven Toys Xalapa 2,Xalapa,Downtown,4/21/2014,2591,7.098630137
+40,Maven Toys Toluca 2,Toluca,Commercial,5/27/2014,2555,7
+41,Maven Toys Hermosillo 2,Hermosillo,Downtown,6/1/2014,2550,6.98630137
+42,Maven Toys Hermosillo 3,Hermosillo,Commercial,6/27/2014,2524,6.915068493
+43,Maven Toys Durango 1,Durango,Downtown,6/30/2014,2521,6.906849315
+44,Maven Toys Puebla 3,Puebla,Residential,12/27/2014,2341,6.41369863
+45,Maven Toys Ciudad de Mexico 4,Cuidad de Mexico,Commercial,6/21/2015,2165,5.931506849
+46,Maven Toys Guadalajara 4,Guadalajara,Downtown,10/31/2015,2033,5.569863014
+47,Maven Toys Monterrey 4,Monterrey,Commercial,11/21/2015,2012,5.512328767
+48,Maven Toys Saltillo 2,Saltillo,Commercial,3/23/2016,1889,5.175342466
+49,Maven Toys Culiacan 1,Culiacan,Downtown,5/10/2016,1841,5.043835616
+50,Maven Toys Guanajuato 3,Guanajuato,Residential,5/18/2016,1833,5.021917808
